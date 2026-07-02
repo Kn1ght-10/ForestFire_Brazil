@@ -1,20 +1,32 @@
-# 🔥 Forest Fires in Brazil — Data Analysis
+# 🔥 Forest Fires in Brazil — Wildfire Trend Analysis
 
-An exploratory analysis of wildfire occurrence trends across Brazilian states, built with Tableau.
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Coverage](https://img.shields.io/badge/Coverage-All%20Brazilian%20states-228B22?style=flat-square)
+![Type](https://img.shields.io/badge/Analysis-Seasonal%20%2B%20Regional-purple?style=flat-square)
 
-## Overview
-This project visualizes historical forest fire data in Brazil to uncover patterns by state, year, and month — highlighting seasonal spikes and regional hotspots.
+**Visualizing nearly two decades of Brazilian wildfire records to expose seasonal spikes and regional hotspots.**
 
-## Contents
-- `brazilfire.csv` — historical forest fire incident data by Brazilian state
-- `ForestFire_Brazil.twbx` — interactive Tableau packaged workbook
+## 🔎 What this project shows
 
-## Tools Used
-- Tableau
-- CSV / Excel
+- 📅 **Seasonality** — which months consistently see fire activity spike (dry-season patterns)
+- 🗺️ **Regional hotspots** — which states carry the heaviest wildfire burden year after year
+- 📈 **Long-term trends** — how fire frequency has evolved over the observation period
+- ⚖️ **State comparisons** — side-by-side views for policy-relevant contrast
 
-## How to View
-Open `ForestFire_Brazil.twbx` in Tableau Desktop or Tableau Public to explore the interactive visualizations.
+## 📁 Contents
+
+| File | Description |
+| --- | --- |
+| `ForestFire_Brazil.twbx` | Interactive Tableau packaged workbook |
+| `brazilfire.csv` | Historical forest-fire incident data by Brazilian state |
+
+## ▶️ How to view
+
+Open `ForestFire_Brazil.twbx` in **Tableau Desktop** or the free **[Tableau Public](https://public.tableau.com/)** app to explore the interactive visualizations.
+
+## 🛠️ Tools
+
+`Tableau` · `CSV/Excel`
 
 ---
 Part of a series of data analysis and visualization projects by [Pranav Tiwari](https://github.com/Kn1ght-10).
